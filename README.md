@@ -8,7 +8,7 @@ The ODIR dataset contains 6000 fundus images, each categorized into one of the m
 
 ## Image Processing
 To extract useful texture information from the fundus images, Local Binary Pattern (LBP) is applied as a preprocessing step. LBP is a powerful texture descriptor that helps capture significant patterns and features from the images, improving the performance of the models.
-<img src='lbp.png'>
+<img src='LBP.png'>
 
 ## Deep Learning Models
 Three different deep learning models are utilized for ocular disease recognition:
@@ -32,3 +32,7 @@ The Ocular Disease Detection project could be extended in the following ways:
    
 ## Conclusion
 Ocular disease detection using deep learning models, LBP preprocessing, and vision transformer techniques shows promising results for early diagnosis and effective treatment. By utilizing state-of-the-art methodologies, this project contributes to advancing the field of medical image analysis and has the potential to assist clinicians in providing timely and accurate diagnoses to patients with various ocular diseases.
+
+## Other Contributors
+1. Kshitiz Kumar
+2. Rajeev Ranjan
