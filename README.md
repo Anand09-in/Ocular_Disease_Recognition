@@ -36,5 +36,5 @@ The Ocular Disease Detection project could be extended in the following ways:
 Ocular disease detection using deep learning models, LBP preprocessing, and vision transformer techniques shows promising results for early diagnosis and effective treatment. By utilizing state-of-the-art methodologies, this project contributes to advancing the field of medical image analysis and has the potential to assist clinicians in providing timely and accurate diagnoses to patients with various ocular diseases.
 
 ## Other Contributors
-1. Kshitiz Kumar
-2. Rajeev Ranjan
+1. <a href='https://github.com/rajeev102001'>Rajeev Ranjan</a>
+2. <a href='https://github.com/kshitij9876'>Kshitij Kumar</a>
