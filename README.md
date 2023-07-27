@@ -4,6 +4,7 @@ The Ocular Disease Detection project aims to automate the diagnosis of various e
 
 ## Dataset
 The ODIR dataset contains 6000 fundus images, each categorized into one of the mentioned eye disease classes. However, the dataset might suffer from class imbalances, which can affect the performance of the models.
+
 <img src='dataset.png'>
 
 ## Image Processing
