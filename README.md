@@ -4,9 +4,11 @@ The Ocular Disease Detection project aims to automate the diagnosis of various e
 
 ## Dataset
 The ODIR dataset contains 6000 fundus images, each categorized into one of the mentioned eye disease classes. However, the dataset might suffer from class imbalances, which can affect the performance of the models.
+<img src='dataset.png'>
 
 ## Image Processing
 To extract useful texture information from the fundus images, Local Binary Pattern (LBP) is applied as a preprocessing step. LBP is a powerful texture descriptor that helps capture significant patterns and features from the images, improving the performance of the models.
+<img src='lbp.png'>
 
 ## Deep Learning Models
 Three different deep learning models are utilized for ocular disease recognition:
@@ -18,7 +20,8 @@ Three different deep learning models are utilized for ocular disease recognition
 3. Vision Transformer: The Vision Transformer is a recent breakthrough in computer vision, showing remarkable results in various image-related challenges. It employs a self-attention mechanism to capture global information from the images.
 
 ## Training and Evaluation
-The models are trained on the preprocessed images using LBP and validated using appropriate evaluation metrics, such as accuracy, precision, recall, F1-score, etc. The dataset is split into training and testing sets to ensure the generalization of the models.
+The models are trained on the preprocessed images using LBP and validated using appropriate evaluation metrics, such as accuracy. The dataset is split into training and testing sets to ensure the generalization of the models.
+<img src='training.png'>
 
 ## Future Directions
 The Ocular Disease Detection project could be extended in the following ways:
