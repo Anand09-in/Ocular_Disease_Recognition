@@ -8,6 +8,7 @@ The ODIR dataset contains 6000 fundus images, each categorized into one of the m
 
 ## Image Processing
 To extract useful texture information from the fundus images, Local Binary Pattern (LBP) is applied as a preprocessing step. LBP is a powerful texture descriptor that helps capture significant patterns and features from the images, improving the performance of the models.
+
 <img src='LBP.png'>
 
 ## Deep Learning Models
